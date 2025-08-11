@@ -1,0 +1,6 @@
+framework module Pods_Unnati_UnnatiTests {
+  umbrella header "Pods-Unnati-UnnatiTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
