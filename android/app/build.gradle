@@ -83,8 +83,8 @@ android {
         applicationId "com.nuvoco.vriddhi"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 60204
-        versionName "6.2.4"
+        versionCode 60205
+        versionName "6.2.5"
     }
     signingConfigs {
         debug {
